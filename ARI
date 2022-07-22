@@ -41,13 +41,3 @@ def automated_readability_index(sentence):
 
 
 automated_readability_index(sentence)
-
-
-
-
-
-
-
-
-
-
